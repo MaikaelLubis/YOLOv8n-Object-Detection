@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Colokan"
+    },
+    {
+      "id": 1,
+      "name": "Minyak_Rambut"
+    },
+    {
+      "id": 2,
+      "name": "Parfum"
+    },
+    {
+      "id": 3,
+      "name": "Tupperware"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
